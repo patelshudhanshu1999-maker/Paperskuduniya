@@ -25,6 +25,9 @@
             clip: rect(1px, 1px, 1px, 1px);
             white-space: nowrap;
         }
+        .input-group-text {
+            width: 92%;
+        }
     </style>
 
 </head>
