@@ -62,7 +62,7 @@
                 <div class="col-lg-6 col-md-7 col-12 text-md-start text-center mb-3 mb-md-0">
                     <p class="copyright-text mb-0">
                         © 2025 Powered by
-                        <a href="https://paperskiduniya.com/">Papers Ki Duniya</a>
+                        <a href="https://paperskiduniya.com/">Papers Ki Duniya</a> v1.0.1
                     </p>
                 </div>
 
