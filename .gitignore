@@ -15,6 +15,30 @@ db.php
 *.log
 error_log
 
-# User Uploads (keep directory but ignore content)
+# User Uploads
 uploads/*
 !uploads/.gitkeep
+
+# Dynamic Data (Database) - DO NOT OVERWRITE ON DEPLOY
+data/*.json
+
+# Generated Exam Pages - DO NOT OVERWRITE ON DEPLOY
+previous-papers/*.php
+!previous-papers/_template.php
+# Whitelist existing static files (so they don't get ignored if we want to update them via git)
+!previous-papers/bssc-office-attendant-previous-year-question-paper.php
+!previous-papers/bssc-stenographer-previous-year-papers.php
+!previous-papers/dda-previous-year-question-papers.php
+!previous-papers/general-knowledge.php
+!previous-papers/ibps-clerk-question-paper.php
+!previous-papers/largest-&-smallest-state-india.php
+!previous-papers/lic-aao-syllabus.php
+!previous-papers/rrb-ntpc-previous-year-question-paper.php
+!previous-papers/sbi-clerk.php
+!previous-papers/ssc-cgl-previous-year-question-paper.php
+!previous-papers/ssc-cpo.php
+!previous-papers/states-and-capitals-of-india.php
+!previous-papers/up-lt-grade-previous-year-question-papers.php
+!previous-papers/up-police-si-previous-year-question-papers.php
+!previous-papers/up-tgt-pgt-previous-year-question-paper.php
+!previous-papers/uppsc-gic-lecturer-previous-year-question-papers.php
