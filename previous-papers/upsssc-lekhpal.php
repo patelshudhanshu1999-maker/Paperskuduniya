@@ -168,38 +168,77 @@
 
                 </div>
                 <div class="col-lg-9 col-md-9 col-sm-12 col-12">
-                    <p>To speed up the preparations for the UPSSSC Lekhpal Exam, the candidates must revise the UPSSSC Lekhpal Previous Year Question Papers, as these papers help in a better understanding of the exam question format and to self-analyse their strong and weak topics. Practising the UPSSSC Lekhpal Previous Year Question Papers must be included in the exam preparations to achieve substantial improvement to score better marks in the UPSSSC Lekhpal Examinations. Attempting UPSSSC Lekhpal Previous Year Papers would lessen the chances of any mistakes or errors while solving the exam questions in the real exam. </p>
+                    <p> The Uttar Pradesh Subordinate Service Selection Commission (UPSSC) is going to recruit eligible candidates for 7994 Rajasva Lekhpal vacancies, for which candidates have to go through a written examination. To help the candidates in their exam preparation, we have provided the UP Lekhpal Previous Year Question Papers, as solving these papers helps in understanding the difficulty level, improving time management, and identifying important topics.  </p>
 
-                    <h4>UPSSSC Lekhpal Previous Year Question Papers</h4>
-                    <p id="DU3RDT4YUESA5Q4K0O4K8PAOXOHYSYNC">UPSSSC Lekhpal Previous Year Question Papers PDF are available here to download. We have provided UPSSSC Lekhpal question papers and their solutions for the previous years. You can download year-wise question papers in PDF and answer keys by visiting the table below.</p>
-
-                    <h4>UPSSSC Lekhpal Question Papers</h4>
-                    <p></p>
+                    <h4>UP Lekhpal Previous Year Question Papers</h4>
+                    <p id="DU3RDT4YUESA5Q4K0O4K8PAOXOHYSYNC"> UP Lekhpal Previous Year Question Papers are one of the most important study materials for candidates in their exam preparation, as they give candidates a clear idea of the actual exam pattern and marking scheme. Practicing previous year papers regularly helps improve speed, accuracy, and time management, which are important for the actual exam. These papers also help candidates to identify repeated questions and frequently asked topics, allowing them to focus on high-scoring areas. </p>
+                     
+                    <h4>UP Lekhpal Previous Year Question Papers PDF</h4>
+                    <p>Solving UP Lekhpal Previous Year Question Papers in a timed manner helps candidates experience real exam conditions and boosts confidence before the actual exam. Candidates can evaluate their performance by analysing mistakes and working on weak areas after solving each paper. Regularly solving these papers helps reduce exam fear and increases confidence, as candidates already know what to expect on exam day. Regular practice of previous year papers helps candidates manage exam time better and avoid last-minute panic.</p>
+                    
                     <figure class="table">
                         <table border="1" cellpadding="10" cellspacing="0" style="width: 100%;">
                             <thead>
                                 <tr>
-                                    <th><strong>Exam Date</strong></th>
-                                    <th><strong>Shifts</strong></th>
-                                    <th><strong>UPSSSC Lekhpal Answer Key pdf [English]</strong></th>
-                                    <th><strong>UPSSSC Lekhpal Answer Key pdf [Hindi]</strong></th>
+                                    <th><strong>Papers</strong></th>
+                                    <th><strong>English PDF</strong></th>
+                                    <th><strong>Hindi PDF</strong></th>
                                 </tr>
                             </thead>
                             <tbody>
                                 <!-- Repeat this block per date -->
                                 <tr>
-                                    <td rowspan="3">Exam Date 1</td>
-                                    <td>Shift 1</td>
+                                    <td>UP Lekhpal Mains Exam Official Paper (31st July 2022)</td>
                                     <td><a href="#" target="_blank" rel="nofollow">Download PDF</a></td>
                                     <td><a href="#" target="_blank" rel="nofollow">Download PDF</a></td>
                                 </tr>
                                 <tr>
-                                    <td>Shift 2</td>
+                                    <td>UPSSSC Lekhpal Paper (30th September 2019 Shift 1)</td>
                                     <td><a href="#" target="_blank" rel="nofollow">Download PDF</a></td>
                                     <td><a href="#" target="_blank" rel="nofollow">Download PDF</a></td>
                                 </tr>
                                 <tr>
-                                    <td>Shift 3</td>
+                                    <td>UPSSSC Lekhpal Paper (30th September 2019 Shift 2)</td>
+                                    <td><a href="#" target="_blank" rel="nofollow">Download PDF</a></td>
+                                    <td><a href="#" target="_blank" rel="nofollow">Download PDF</a></td>
+                                </tr>
+                                <tr>
+                                    <td>UPSSSC Lekhpal Paper (1st October 2019 Shift 1)</td>
+                                    <td><a href="#" target="_blank" rel="nofollow">Download PDF</a></td>
+                                    <td><a href="#" target="_blank" rel="nofollow">Download PDF</a></td>
+                                </tr>
+                                <tr>
+                                    <td>UPSSSC Lekhpal Paper (1st October 2019 Shift 2)</td>
+                                    <td><a href="#" target="_blank" rel="nofollow">Download PDF</a></td>
+                                    <td><a href="#" target="_blank" rel="nofollow">Download PDF</a></td>
+                                </tr>
+                                <tr>
+                                    <td>UPSSSC Lekhpal Paper (13th September 2015 Shift 1)</td>
+                                    <td><a href="#" target="_blank" rel="nofollow">Download PDF</a></td>
+                                    <td><a href="#" target="_blank" rel="nofollow">Download PDF</a></td>
+                                </tr>
+                                <tr>
+                                    <td>UPSSSC Lekhpal Paper (13th September 2015 Shift 2)</td>
+                                    <td><a href="#" target="_blank" rel="nofollow">Download PDF</a></td>
+                                    <td><a href="#" target="_blank" rel="nofollow">Download PDF</a></td>
+                                </tr>
+                                <tr>
+                                    <td>UPSSSC Lekhpal Paper (8th November 2015 Shift 1)</td>
+                                    <td><a href="#" target="_blank" rel="nofollow">Download PDF</a></td>
+                                    <td><a href="#" target="_blank" rel="nofollow">Download PDF</a></td>
+                                </tr>
+                                 <tr>
+                                    <td>UPSSSC Lekhpal Paper (8th November 2015 Shift 2)</td>
+                                    <td><a href="#" target="_blank" rel="nofollow">Download PDF</a></td>
+                                    <td><a href="#" target="_blank" rel="nofollow">Download PDF</a></td>
+                                </tr>
+                                 <tr>
+                                    <td>UPSSSC Lekhpal Paper (2008 Shift 1)</td>
+                                    <td><a href="#" target="_blank" rel="nofollow">Download PDF</a></td>
+                                    <td><a href="#" target="_blank" rel="nofollow">Download PDF</a></td>
+                                </tr>
+                                 <tr>
+                                    <td>UPSSSC Lekhpal Paper (2008 Shift 2)</td>
                                     <td><a href="#" target="_blank" rel="nofollow">Download PDF</a></td>
                                     <td><a href="#" target="_blank" rel="nofollow">Download PDF</a></td>
                                 </tr>

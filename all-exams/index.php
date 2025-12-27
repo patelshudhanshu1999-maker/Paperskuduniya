@@ -43,6 +43,18 @@
     <section class="section-padding">
         <div class="container">
             <div class="row">
+
+                <div class="col-xl-2 col-lg-3 col-md-6 col-sm-6 col-6 mb-4 mb-lg-0 mb-md-4 mt-4">
+                    <div class="featured-block d-flex justify-content-center align-items-center">
+                        <a href="/previous-papers/upsssc-lekhpal.php" class="d-block">
+                            <img src="/images/icons/uttar_pradesh-logo.png" class="featured-block-image img-fluid"
+                                alt="UPSSSC Lekhpal Recruitment">
+                            <p class="featured-block-text">
+                                UPSSSC <strong>Lekhpal Recruitment</strong> 2025
+                            </p>
+                        </a>
+                    </div>
+                </div>
                 
                 <div class="col-xl-2 col-lg-3 col-md-6 col-sm-6 col-6 mb-4 mb-lg-0 mb-md-4 mt-4">
                     <div class="featured-block d-flex justify-content-center align-items-center">
