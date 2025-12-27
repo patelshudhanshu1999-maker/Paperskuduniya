@@ -1,1 +1,17 @@
-{}
+{
+    "u1": {
+        "description": "<p>This is a test description for SSC CGL.</p>",
+        "tables": [
+            {
+                "title": "Test Table",
+                "headers": ["Date", "Shift"],
+                "rows": [
+                    [
+                        {"content": "2025-01-01", "rowspan": 1, "colspan": 1},
+                        {"content": "Morning", "rowspan": 1, "colspan": 1}
+                    ]
+                ]
+            }
+        ]
+    }
+}
