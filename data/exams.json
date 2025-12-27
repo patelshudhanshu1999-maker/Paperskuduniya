@@ -1,0 +1,250 @@
+{
+    "upcoming": [
+        {
+            "id": "u1",
+            "title": "SSC CGL 2025",
+            "date": "July - Oct 2025",
+            "image": "/images/icons/ssc_4.png",
+            "link": "/previous-papers/ssc-cgl-previous-year-question-paper.php"
+        },
+        {
+            "id": "u2",
+            "title": "IBPS Clerk 2025",
+            "date": "01 Aug - 28 Aug (2025)",
+            "image": "/images/icons/ssc_4.png",
+            "link": "/previous-papers/ibps-clerk-question-paper.php"
+        },
+        {
+            "id": "u3",
+            "title": "UP Police SI",
+            "date": "12 Aug - 11 Sep 2025",
+            "image": "/images/icons/uttar_pradesh-logo.png",
+            "link": "/previous-papers/up-police-si-previous-year-question-papers.php"
+        },
+        {
+            "id": "u4",
+            "title": "SBI Clerk 2025",
+            "date": "06 Aug - 26 Aug (2025)",
+            "image": "/images/icons/sbi-clerk-exam.png",
+            "link": "/previous-papers/sbi-clerk.php"
+        },
+        {
+            "id": "u5",
+            "title": "UP GIC Lecturer",
+            "date": "12 Aug - 12 Sep, 2025",
+            "image": "/images/icons/uttar_pradesh-logo.png",
+            "link": "/previous-papers/uppsc-gic-lecturer-previous-year-question-papers.php"
+        },
+        {
+            "id": "u6",
+            "title": "UP LT Grade",
+            "date": "28 July - 28 Aug, 2025",
+            "image": "/images/icons/uttar_pradesh-logo.png",
+            "link": "/previous-papers/up-lt-grade-previous-year-question-papers.php"
+        }
+    ],
+    "state": [
+        {
+            "id": "s1",
+            "title": "Delhi",
+            "date": "",
+            "image": "/images/icons/dda-logo.png",
+            "link": "/previous-papers/dda-previous-year-question-papers.php"
+        },
+        {
+            "id": "s2",
+            "title": "Uttar Pradesh",
+            "date": "",
+            "image": "/images/icons/uttar_pradesh-logo.png",
+            "link": "/up-exams/"
+        },
+        {
+            "id": "s3",
+            "title": "Jharkhand",
+            "date": "",
+            "image": "/images/icons/jharkhand.png",
+            "link": "/jharkhand-exams/"
+        },
+        {
+            "id": "s4",
+            "title": "Bihar",
+            "date": "",
+            "image": "/images/icons/bihar.png",
+            "link": "/bihar-exams/"
+        },
+        {
+            "id": "s5",
+            "title": "West Bengal",
+            "date": "",
+            "image": "/images/icons/west-bengal.png",
+            "link": "/wb-exams/"
+        },
+        {
+            "id": "s6",
+            "title": "Uttarakhand",
+            "date": "",
+            "image": "/images/icons/uttarakhand.jfif",
+            "link": "/uttarakhand-exams/"
+        },
+        {
+            "id": "s7",
+            "title": "Madhya Pradesh",
+            "date": "",
+            "image": "/images/icons/madhya_pradesh.png",
+            "link": "/mp-exams/"
+        },
+        {
+            "id": "s8",
+            "title": "Rajasthan",
+            "date": "",
+            "image": "/images/icons/rajasthan.png",
+            "link": "/rajasthan-exams/"
+        }
+    ],
+    "central": [
+        {
+            "id": "c1",
+            "title": "RRB NTPC (10+2 Level) CBT 1",
+            "date": "To be Announced",
+            "image": "/images/icons/railway.png",
+            "link": "/previous-papers/rrb-ntpc-previous-year-question-paper.php"
+        },
+        {
+            "id": "c2",
+            "title": "RRB NTPC (Graduate Level) CBT 1",
+            "date": "05 - 23 June 2025",
+            "image": "/images/icons/railway.png",
+            "link": "/previous-papers/rrb-ntpc-previous-year-question-paper.php"
+        },
+        {
+            "id": "c3",
+            "title": "SSC GD Constable 2025",
+            "date": "Jan - Feb 2026",
+            "image": "/images/icons/ssc_4.png",
+            "link": "/ssc/ssc-gd-constable-exam/"
+        },
+        {
+            "id": "c4",
+            "title": "SSC Delhi Police Constable (Executive) 2025",
+            "date": "Nov - Dec 2025",
+            "image": "/images/icons/ssc_4.png",
+            "link": "/ssc/delhi-police-constables-executive/"
+        },
+        {
+            "id": "c5",
+            "title": "SSC Selection Post Graduation Level 2025",
+            "date": "24 July to 4 August, 2025",
+            "image": "/images/icons/ssc_4.png",
+            "link": "/ssc/ssc-selection-post/"
+        },
+        {
+            "id": "c6",
+            "title": "SSC Selection Post- 12th Level 2025",
+            "date": "24 July to 4 August, 2025",
+            "image": "/images/icons/ssc_4.png",
+            "link": "/ssc/ssc-selection-hsc/"
+        }
+    ],
+    "computer": [
+        {
+            "id": "d1",
+            "title": "RRB NTPC (10+2 Level) CBT 1",
+            "date": "To be Announced",
+            "image": "/images/icons/railway.png",
+            "link": "/previous-papers/rrb-ntpc-previous-year-question-paper.php"
+        },
+        {
+            "id": "d2",
+            "title": "RRB NTPC (Graduate Level) CBT 1",
+            "date": "05 - 23 June 2025",
+            "image": "/images/icons/railway.png",
+            "link": "/previous-papers/rrb-ntpc-previous-year-question-paper.php"
+        },
+        {
+            "id": "d3",
+            "title": "SSC GD Constable 2025",
+            "date": "Jan - Feb 2026",
+            "image": "/images/icons/ssc_4.png",
+            "link": "/ssc/ssc-gd-constable-exam/"
+        },
+        {
+            "id": "d4",
+            "title": "SSC Delhi Police Constable (Executive) 2025",
+            "date": "Nov - Dec 2025",
+            "image": "/images/icons/ssc_4.png",
+            "link": "/ssc/delhi-police-constables-executive/"
+        },
+        {
+            "id": "d5",
+            "title": "SSC Selection Post Graduation Level 2025",
+            "date": "24 July to 4 August, 2025",
+            "image": "/images/icons/ssc_4.png",
+            "link": "/ssc/ssc-selection-post/"
+        },
+        {
+            "id": "d6",
+            "title": "SSC Selection Post- 12th Level 2025",
+            "date": "24 July to 4 August, 2025",
+            "image": "/images/icons/ssc_4.png",
+            "link": "/ssc/ssc-selection-hsc/"
+        }
+    ],
+    "school": [
+        {
+            "id": "sc1",
+            "title": "Uttar Pradesh",
+            "date": "",
+            "image": "/images/icons/school-logo.jpg",
+            "link": "/up-exams/"
+        },
+        {
+            "id": "sc2",
+            "title": "Haryana",
+            "date": "",
+            "image": "/images/icons/school-logo.jpg",
+            "link": "/haryana-exams/"
+        },
+        {
+            "id": "sc3",
+            "title": "Jharkhand",
+            "date": "",
+            "image": "/images/icons/school-logo.jpg",
+            "link": "/jharkhand-exams/"
+        },
+        {
+            "id": "sc4",
+            "title": "Bihar",
+            "date": "",
+            "image": "/images/icons/school-logo.jpg",
+            "link": "/bihar-exams/"
+        },
+        {
+            "id": "sc5",
+            "title": "West Bengal",
+            "date": "",
+            "image": "/images/icons/school-logo.jpg",
+            "link": "/wb-exams/"
+        },
+        {
+            "id": "sc6",
+            "title": "Uttarakhand",
+            "date": "",
+            "image": "/images/icons/school-logo.jpg",
+            "link": "/uttarakhand-exams/"
+        },
+        {
+            "id": "sc7",
+            "title": "Madhya Pradesh",
+            "date": "",
+            "image": "/images/icons/school-logo.jpg",
+            "link": "/mp-exams/"
+        },
+        {
+            "id": "sc8",
+            "title": "Rajasthan",
+            "date": "",
+            "image": "/images/icons/school-logo.jpg",
+            "link": "/rajasthan-exams/"
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+main {
+    width: 100%;
+    max-width: 100%;
+    display: flex;
+    padding: 30px 0px;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    border-radius: 12px;
+    margin: auto;
+}
+.blog-div {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #e0e0e0;
+  border-radius: 10px;
+  overflow: hidden;
+  background-color: #ffffff;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+  transition: transform 0.3s ease;
+}
+
+.blog-div:hover {
+  transform: translateY(-5px);
+}
+
+.blog-div figure {
+  margin: 0;
+  overflow: hidden;
+}
+
+.blog-div img {
+  width: 100%;
+  height: 250px;
+  display: block;
+  transition: transform 0.3s ease;
+}
+
+.blog-div:hover img {
+  transform: scale(1.03);
+}
+
+.blog-div-content {
+  padding: 15px 20px;
+}
+
+.blog-div-extra {
+  display: flex;
+  justify-content: space-between;
+  font-size: 14px;
+  color: #888;
+  margin-bottom: 10px;
+}
+
+.blog-div-title a {
+  font-size: 18px;
+  font-weight: 600;
+  color: #333;
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+.blog-div-title a:hover {
+  color: #007bff;
+}
+
+.blog-div-descriptoin p {
+  font-size: 15px;
+  color: #555;
+  margin: 10px 0 0;
+}
+.blog-view-likes strong {
+    display: inline-block;
+    padding-left: 35px;
+    position: relative;
+    font-weight: 400;
+}
+.blog-view-likes .blog-views {
+    background: url(https://www.spaceotechnologies.com/wp-content/uploads/2020/11/view-icon.png) no-repeat left 10px center;
+}
+.blog-view-likes .blog-likes {
+    background: url(https://www.spaceotechnologies.com/wp-content/uploads/2020/11/like-icon.png) no-repeat left 10px center;
+}
+.youtube-icon {
+    font-size: 15px;
+    color: #f00;
+    border: 1px solid #f00;
+    padding: 2px 0px;
+    padding-left: 7px;
+    padding-right: 4px;
+    margin-right: 8px;
+    border-radius: 3px;
+}
+/* Optional responsiveness */
+@media (max-width: 768px) {
+  .blog-div {
+    flex-direction: column;
+  }
+
+  .blog-div-content {
+    padding: 15px;
+  }
+}
