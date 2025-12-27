@@ -189,23 +189,23 @@
                                 <!-- Repeat this block per date -->
                                 <tr>
                                     <td>UP Lekhpal Mains Exam Official Paper (31st July 2022)</td>
-                                    <td><a href="#" target="_blank" rel="nofollow">Download PDF</a></td>
-                                    <td><a href="#" target="_blank" rel="nofollow">Download PDF</a></td>
+                                    <td><a href="https://www.careerpower.in/blog/wp-content/uploads/2025/12/17144403/UP-Lekhpal-Mains-Exam-Official-Paper-Held-On-31st-July-2022-English.pdf" target="_blank" rel="nofollow">Download PDF</a></td>
+                                    <td>--</td>
                                 </tr>
                                 <tr>
                                     <td>UPSSSC Lekhpal Paper (30th September 2019 Shift 1)</td>
-                                    <td><a href="#" target="_blank" rel="nofollow">Download PDF</a></td>
-                                    <td><a href="#" target="_blank" rel="nofollow">Download PDF</a></td>
+                                    <td><a href="https://www.careerpower.in/blog/wp-content/uploads/2025/12/17144400/UPSSSC-Chackbandi-Lekhpal-Paper-30-Sept-2019-Shift-1-English.pdf" target="_blank" rel="nofollow">Download PDF</a></td>
+                                    <td><a href="https://www.careerpower.in/blog/wp-content/uploads/2025/12/17144358/UPSSSC-Chackbandi-Lekhpal-Paper-30-Sept-2019-Shift-1-Hindi.pdf" target="_blank" rel="nofollow">Download PDF</a></td>
                                 </tr>
                                 <tr>
                                     <td>UPSSSC Lekhpal Paper (30th September 2019 Shift 2)</td>
-                                    <td><a href="#" target="_blank" rel="nofollow">Download PDF</a></td>
-                                    <td><a href="#" target="_blank" rel="nofollow">Download PDF</a></td>
+                                    <td><a href="https://www.careerpower.in/blog/wp-content/uploads/2025/12/17144356/UPSSSC-Chackbandi-Lekhpal-Paper-30-Sept-2019-Shift-2-English.pdf" target="_blank" rel="nofollow">Download PDF</a></td>
+                                    <td><a href="https://www.careerpower.in/blog/wp-content/uploads/2025/12/17144353/UPSSSC-Chackbandi-Lekhpal-Paper-30-Sept-2019-Shift-2-Hindi.pdf" target="_blank" rel="nofollow">Download PDF</a></td>
                                 </tr>
                                 <tr>
                                     <td>UPSSSC Lekhpal Paper (1st October 2019 Shift 1)</td>
-                                    <td><a href="#" target="_blank" rel="nofollow">Download PDF</a></td>
-                                    <td><a href="#" target="_blank" rel="nofollow">Download PDF</a></td>
+                                    <td><a href="https://www.careerpower.in/blog/wp-content/uploads/2025/12/17144351/UPSSSC-Chakbandi-Lekhpal-Paper-1-Oct-2019-Shift-1-English.pdf" target="_blank" rel="nofollow">Download PDF</a></td>
+                                    <td><a href="https://www.careerpower.in/blog/wp-content/uploads/2025/12/17144348/UPSSSC-Chakbandi-Lekhpal-Paper-1-Oct-2019-Shift-1-Hindi.pdf" target="_blank" rel="nofollow">Download PDF</a></td>
                                 </tr>
                                 <tr>
                                     <td>UPSSSC Lekhpal Paper (1st October 2019 Shift 2)</td>
