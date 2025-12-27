@@ -46,8 +46,7 @@
             </div>
         </section>
 
-        <?php include 'contributorform.php'; ?>
-
+       
     </main>
     <?php include 'footer.php'; ?>
 </body>
