@@ -55,3 +55,42 @@
         </div>
     </div>
 </section>
+
+<script>
+    document.getElementById('volunteer-form').addEventListener('submit', function(e) {
+        e.preventDefault();
+        
+        var form = this;
+        var formData = new FormData(form);
+        var messageDiv = document.getElementById('form-message');
+        var submitBtn = form.querySelector('button[type="submit"]');
+        
+        // Disable button and show loading state
+        submitBtn.disabled = true;
+        submitBtn.innerText = 'Sending...';
+        messageDiv.innerHTML = '';
+        messageDiv.className = 'mt-3';
+
+        fetch('send-email.php', {
+            method: 'POST',
+            body: formData
+        })
+        .then(response => response.json())
+        .then(data => {
+            if (data.status === 'success') {
+                messageDiv.innerHTML = '<div class="alert alert-success">' + data.message + '</div>';
+                form.reset();
+            } else {
+                messageDiv.innerHTML = '<div class="alert alert-danger">' + data.message + '</div>';
+            }
+        })
+        .catch(error => {
+            console.error('Error:', error);
+            messageDiv.innerHTML = '<div class="alert alert-danger">An error occurred. Please try again.</div>';
+        })
+        .finally(() => {
+            submitBtn.disabled = false;
+            submitBtn.innerText = 'Submit';
+        });
+    });
+</script>
