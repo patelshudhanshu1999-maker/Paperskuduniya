@@ -209,38 +209,38 @@
                                 </tr>
                                 <tr>
                                     <td>UPSSSC Lekhpal Paper (1st October 2019 Shift 2)</td>
-                                    <td><a href="#" target="_blank" rel="nofollow">Download PDF</a></td>
-                                    <td><a href="#" target="_blank" rel="nofollow">Download PDF</a></td>
+                                    <td><a href="https://www.careerpower.in/blog/wp-content/uploads/2025/12/17144346/UPSSSC-Chakbandi-Lekhpal-Paper-1-Oct-2019-Shift-2-English.pdf" target="_blank" rel="nofollow">Download PDF</a></td>
+                                    <td><a href="https://www.careerpower.in/blog/wp-content/uploads/2025/12/17144344/UPSSSC-Chakbandi-Lekhpal-Paper-1-Oct-2019-Shift-2-Hindi.pdf" target="_blank" rel="nofollow">Download PDF</a></td>
                                 </tr>
                                 <tr>
                                     <td>UPSSSC Lekhpal Paper (13th September 2015 Shift 1)</td>
-                                    <td><a href="#" target="_blank" rel="nofollow">Download PDF</a></td>
-                                    <td><a href="#" target="_blank" rel="nofollow">Download PDF</a></td>
+                                    <td><a href="https://www.careerpower.in/blog/wp-content/uploads/2025/12/17144341/UPSSSC-Revenue-Lekhpal-Paper-13-Sept-2015-Shift-1.pdf" target="_blank" rel="nofollow">Download PDF</a></td>
+                                    <td>--</td>
                                 </tr>
                                 <tr>
                                     <td>UPSSSC Lekhpal Paper (13th September 2015 Shift 2)</td>
-                                    <td><a href="#" target="_blank" rel="nofollow">Download PDF</a></td>
-                                    <td><a href="#" target="_blank" rel="nofollow">Download PDF</a></td>
+                                    <td></td>
+                                    <td></td>
                                 </tr>
                                 <tr>
                                     <td>UPSSSC Lekhpal Paper (8th November 2015 Shift 1)</td>
-                                    <td><a href="#" target="_blank" rel="nofollow">Download PDF</a></td>
-                                    <td><a href="#" target="_blank" rel="nofollow">Download PDF</a></td>
+                                    <td></td>
+                                    <td></td>
                                 </tr>
                                  <tr>
                                     <td>UPSSSC Lekhpal Paper (8th November 2015 Shift 2)</td>
-                                    <td><a href="#" target="_blank" rel="nofollow">Download PDF</a></td>
-                                    <td><a href="#" target="_blank" rel="nofollow">Download PDF</a></td>
+                                    <td></td>
+                                    <td></td>
                                 </tr>
                                  <tr>
                                     <td>UPSSSC Lekhpal Paper (2008 Shift 1)</td>
-                                    <td><a href="#" target="_blank" rel="nofollow">Download PDF</a></td>
-                                    <td><a href="#" target="_blank" rel="nofollow">Download PDF</a></td>
+                                    <td></td>
+                                    <td></td>
                                 </tr>
                                  <tr>
                                     <td>UPSSSC Lekhpal Paper (2008 Shift 2)</td>
-                                    <td><a href="#" target="_blank" rel="nofollow">Download PDF</a></td>
-                                    <td><a href="#" target="_blank" rel="nofollow">Download PDF</a></td>
+                                    <td></td>
+                                    <td></td>
                                 </tr>
                             </tbody>
                         </table>
