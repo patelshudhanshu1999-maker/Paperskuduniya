@@ -1,61 +1,71 @@
-
-.heading-bar-left-right:after, .heading-bar-left-right:before {
+.heading-bar-left-right:after,
+.heading-bar-left-right:before {
     content: "";
     display: block;
     width: 40px;
     height: 2px;
     background-color: #000000;
 }
-.top-heading:before, .top-heading:after {
+
+.top-heading:before,
+.top-heading:after {
     background-color: #0e579b;
 }
+
 .heading-bar-left-right:before {
     display: inline-block;
     margin-right: 10px;
 }
+
 .heading-bar-left-right:after {
     display: inline-block;
     margin-left: 10px;
 }
-            .heading-bar-left-right {
+
+.heading-bar-left-right {
     position: relative;
     display: flex;
     align-items: center;
     justify-content: center;
 }
+
 .tab {
-  overflow: hidden;
-  background-color: #fff;
-  border-bottom: 1px solid #ccc;
+    overflow: hidden;
+    background-color: #fff;
+    border-bottom: 1px solid #ccc;
 }
 
 .tab button {
-  background-color: inherit;
-  border: none;
-  outline: none;
-  cursor: pointer;
-  padding: 14px 16px;
-  transition: 0.3s;
-  font-size: 16px;
+    background-color: inherit;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+    font-size: 16px;
 }
 
 .tab button:hover,
 .tab button.active {
-  background-color: #ddd;
+    background-color: #ddd;
 }
+
 .section-padding {
-        padding-top: 40px;
+    padding-top: 40px;
     padding-bottom: 40px;
 }
+
 .tabcontent {
-  display: none;
-  padding: 20px 0;
+    display: none;
+    padding: 20px 0;
 }
+
 .clickable-tab {
     display: flex;
     align-items: center;
     justify-content: space-between;
 }
+
 .clickable-tab .tablinks {
     width: 100%;
     border: 1px solid #dddddd;
@@ -70,18 +80,21 @@
     box-shadow: 0 0 30px 0 rgba(0, 0, 0, 0.1);
     transform: translateY(0);
 }
+
 .clickable-tab .tablinks.active {
     background: #1c7fdb;
     color: #fff;
     font-weight: bold;
 }
+
 .clickable-tab .tablinks i {
     display: block;
     font-size: 26px;
     margin-bottom: 8px;
 }
+
 .exam-categories-box {
-     display: flex;
+    display: flex;
     justify-content: space-between;
     background: #fff;
     margin-top: 20px;
@@ -92,18 +105,18 @@
 }
 
 .exam-categories-details {
-  max-width: 70%;
+    max-width: 70%;
 }
 
 .exam-categories-details h4 {
-  margin-top: 0;
+    margin-top: 0;
 }
 
 .exam-categories-details ul {
-      display: flex;
-      flex-wrap: wrap;
-      align-items: center;
-      padding-inline-start: initial;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    padding-inline-start: initial;
 }
 
 .exam-categories-details ul li a {
@@ -125,33 +138,32 @@
     box-shadow: 0 0 30px 0 rgba(0, 0, 0, 0.1);
     background-color: #ffffff;
     border: 1px solid #f3f3f3;
-    display: flex
-;
+    display: flex;
     align-items: center;
     margin-right: 20px;
-    /* width: 100%; */
+    width: 22;
     height: 100px;
 }
 
 .exam-categories-details img {
-  width: 40px;
-  height: 40px;
-  margin-right: 10px;
+    width: 40px;
+    height: 40px;
+    margin-right: 10px;
 }
 
 .view-all-btn {
-  margin-top: 20px;
-  padding: 10px 20px;
-  background-color: #0073e6;
-  border: none;
-  color: white;
-  cursor: pointer;
-  border-radius: 4px;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #0073e6;
+    border: none;
+    color: white;
+    cursor: pointer;
+    border-radius: 4px;
 }
 
 .view-all-btn a {
-  color: white;
-  text-decoration: none;
+    color: white;
+    text-decoration: none;
 }
 
 .exam-categories-details ul li h3 {
@@ -161,6 +173,7 @@
     color: #323232;
     line-height: 20px;
 }
+
 .exam-categories-details ul li h6 {
     margin: 0;
     padding-top: 10px;
@@ -169,8 +182,7 @@
 }
 
 .exam-categories-section .exam-categories-box {
-    display: flex
-;
+    display: flex;
     justify-content: space-between;
     background: #fff;
     margin-top: 20px;
@@ -179,18 +191,22 @@
     box-shadow: 0 0 30px 0 rgba(0, 0, 0, 0.1);
     border-radius: 10px;
 }
+
 .exam-categories-box img {
     width: 20%;
     height: 200px;
 }
+
 .exam-categories-details ul li img {
     width: 18% !important;
     margin-right: 16px;
     height: auto !important;
 }
+
 .state {
     width: 165px;
 }
+
 .news-image {
-   width: 100%;   
+    width: 100%;
 }
