@@ -27,6 +27,7 @@
         }
         .input-group-text {
             width: 92%;
+            cursor: pointer;
         }
     </style>
 
