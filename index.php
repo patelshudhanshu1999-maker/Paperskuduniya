@@ -278,8 +278,8 @@ $examsData = json_decode(file_get_contents('data/exams.json'), true);
                                     <ul>
                                         <?php if (!empty($examsData['upcoming'])): ?>
                                             <?php foreach ($examsData['upcoming'] as $exam): ?>
-                                                <a href="<?php echo htmlspecialchars($exam['link']); ?>">
-                                                    <li>
+                                                <li>
+                                                    <a href="<?php echo htmlspecialchars($exam['link']); ?>">
                                                         <img src="<?php echo htmlspecialchars($exam['image']); ?>"
                                                             class="img-fluid"
                                                             alt="<?php echo htmlspecialchars($exam['title']); ?>">
@@ -289,8 +289,8 @@ $examsData = json_decode(file_get_contents('data/exams.json'), true);
                                                                 <h6><?php echo htmlspecialchars($exam['date']); ?></h6>
                                                             <?php endif; ?>
                                                         </div>
-                                                    </li>
-                                                </a>
+                                                    </a>
+                                                </li>
                                             <?php endforeach; ?>
                                         <?php endif; ?>
                                     </ul>
@@ -322,15 +322,15 @@ $examsData = json_decode(file_get_contents('data/exams.json'), true);
                                     <ul>
                                         <?php if (!empty($examsData['state'])): ?>
                                             <?php foreach ($examsData['state'] as $exam): ?>
-                                                <a href="<?php echo htmlspecialchars($exam['link']); ?>">
-                                                    <li class="state">
+                                                <li class="state">
+                                                    <a href="<?php echo htmlspecialchars($exam['link']); ?>">
                                                         <img src="<?php echo htmlspecialchars($exam['image']); ?>"
                                                             alt="<?php echo htmlspecialchars($exam['title']); ?>">
                                                         <div>
                                                             <h3><?php echo htmlspecialchars($exam['title']); ?></h3>
                                                         </div>
-                                                    </li>
-                                                </a>
+                                                    </a>
+                                                </li>
                                             <?php endforeach; ?>
                                         <?php endif; ?>
                                     </ul>
@@ -356,8 +356,8 @@ $examsData = json_decode(file_get_contents('data/exams.json'), true);
                                     <ul>
                                         <?php if (!empty($examsData['central'])): ?>
                                             <?php foreach ($examsData['central'] as $exam): ?>
-                                                <a href="<?php echo htmlspecialchars($exam['link']); ?>">
-                                                    <li>
+                                                <li>
+                                                    <a href="<?php echo htmlspecialchars($exam['link']); ?>">
                                                         <img src="<?php echo htmlspecialchars($exam['image']); ?>"
                                                             class="img-fluid"
                                                             alt="<?php echo htmlspecialchars($exam['title']); ?>">
@@ -367,8 +367,8 @@ $examsData = json_decode(file_get_contents('data/exams.json'), true);
                                                                 <h6><?php echo htmlspecialchars($exam['date']); ?></h6>
                                                             <?php endif; ?>
                                                         </div>
-                                                    </li>
-                                                </a>
+                                                    </a>
+                                                </li>
                                             <?php endforeach; ?>
                                         <?php endif; ?>
                                     </ul>
@@ -395,8 +395,8 @@ $examsData = json_decode(file_get_contents('data/exams.json'), true);
                                     <ul>
                                         <?php if (!empty($examsData['computer'])): ?>
                                             <?php foreach ($examsData['computer'] as $exam): ?>
-                                                <a href="<?php echo htmlspecialchars($exam['link']); ?>">
-                                                    <li>
+                                                <li>
+                                                    <a href="<?php echo htmlspecialchars($exam['link']); ?>">
                                                         <img src="<?php echo htmlspecialchars($exam['image']); ?>"
                                                             class="img-fluid"
                                                             alt="<?php echo htmlspecialchars($exam['title']); ?>">
@@ -406,8 +406,8 @@ $examsData = json_decode(file_get_contents('data/exams.json'), true);
                                                                 <h6><?php echo htmlspecialchars($exam['date']); ?></h6>
                                                             <?php endif; ?>
                                                         </div>
-                                                    </li>
-                                                </a>
+                                                    </a>
+                                                </li>
                                             <?php endforeach; ?>
                                         <?php endif; ?>
                                     </ul>
@@ -437,16 +437,16 @@ $examsData = json_decode(file_get_contents('data/exams.json'), true);
                                     <ul>
                                         <?php if (!empty($examsData['school'])): ?>
                                             <?php foreach ($examsData['school'] as $exam): ?>
-                                                <a href="<?php echo htmlspecialchars($exam['link']); ?>">
-                                                    <li>
+                                                <li>
+                                                    <a href="<?php echo htmlspecialchars($exam['link']); ?>">
                                                         <img src="<?php echo htmlspecialchars($exam['image']); ?>"
                                                             class="img-fluid"
                                                             alt="<?php echo htmlspecialchars($exam['title']); ?>">
                                                         <div>
                                                             <h3><?php echo htmlspecialchars($exam['title']); ?></h3>
                                                         </div>
-                                                    </li>
-                                                </a>
+                                                    </a>
+                                                </li>
                                             <?php endforeach; ?>
                                         <?php endif; ?>
                                     </ul>
