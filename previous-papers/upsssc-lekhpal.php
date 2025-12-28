@@ -189,7 +189,7 @@
                                 <!-- Repeat this block per date -->
                                 <tr>
                                     <td>UP Lekhpal Mains Exam Official Paper (31st July 2022)</td>
-                                    <td><a href="https://www.careerpower.in/blog/wp-content/uploads/2025/12/17144403/UP-Lekhpal-Mains-Exam-Official-Paper-Held-On-31st-July-2022-English.pdf" target="_blank" rel="nofollow">Download PDF</a></td>
+                                    <td><a href="/previous-papers/exampapers/lekhpal/UP-Lekhpal-Mains-Exam-Official-Paper-Held-On-31st-July-2022-English.pdf" target="_blank" rel="nofollow">Download PDF</a></td>
                                     <td>--</td>
                                 </tr>
                                 <tr>
