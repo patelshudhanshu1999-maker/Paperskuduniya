@@ -86,6 +86,16 @@ $examsData = json_decode(file_get_contents('data/exams.json'), true);
                         <!-- Slide 1 -->
                         <div class="swiper-slide">
                             <div class="featured-block d-flex justify-content-center align-items-center">
+                                <a href="/previous-papers/upsssc-lekhpal.php" class="d-block">
+                                    <img src="images/icons/uttar_pradesh-logo.png" class="featured-block-image img-fluid"
+                                        alt="UPSSSC Lekhpal 2025">
+                                    <p class="featured-block-text">UPSSSC <strong> Lekhpal 2025</strong></p>
+                                </a>
+                            </div>
+                        </div>
+                    
+                        <div class="swiper-slide">
+                            <div class="featured-block d-flex justify-content-center align-items-center">
                                 <a href="/previous-papers/ssc-cgl-previous-year-question-paper.php" class="d-block">
                                     <img src="images/icons/exam.png" class="featured-block-image img-fluid"
                                         alt="SSC MTS">
