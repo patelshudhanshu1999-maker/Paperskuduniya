@@ -142,7 +142,7 @@
     align-items: center;
     margin-right: 20px;
     width: 22%;
-    height: 100px;
+    height: auto;
 }
 
 .exam-categories-details img {
