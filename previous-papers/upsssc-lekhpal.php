@@ -219,17 +219,17 @@
                                 </tr>
                                 <tr>
                                     <td>UPSSSC Lekhpal Paper (13th September 2015 Shift 2)</td>
-                                    <td><a href="/previous-papers/exampapers/lekhpal/UP-Lekhpal-Mains-Exam-Official-Paper-Held-On-31st-July-2022-English.pdf" target="_blank">Download PDF</a></td>
+                                    <td>--</td>
                                     <td><a href="/previous-papers/exampapers/lekhpal/UP-Lekhpal-Mains-Exam-Official-Paper-Held-On-31st-July-2022-English.pdf" target="_blank">Download PDF</a></td>
                                 </tr>
                                 <tr>
                                     <td>UPSSSC Lekhpal Paper (8th November 2015 Shift 1)</td>
-                                    <td><a href="/previous-papers/exampapers/lekhpal/UP-Lekhpal-Mains-Exam-Official-Paper-Held-On-31st-July-2022-English.pdf" target="_blank">Download PDF</a></td>
+                                    <td>--</td>
                                     <td><a href="/previous-papers/exampapers/lekhpal/UP-Lekhpal-Mains-Exam-Official-Paper-Held-On-31st-July-2022-English.pdf" target="_blank">Download PDF</a></td>
                                 </tr>
                                  <tr>
                                     <td>UPSSSC Lekhpal Paper (8th November 2015 Shift 2)</td>
-                                    <td><a href="/previous-papers/exampapers/lekhpal/UP-Lekhpal-Mains-Exam-Official-Paper-Held-On-31st-July-2022-English.pdf" target="_blank">Download PDF</a></td>
+                                    <td>--</td>
                                     <td><a href="/previous-papers/exampapers/lekhpal/UP-Lekhpal-Mains-Exam-Official-Paper-Held-On-31st-July-2022-English.pdf" target="_blank">Download PDF</a></td>
                                 </tr>
                                  <tr>
@@ -239,7 +239,7 @@
                                 </tr>
                                  <tr>
                                     <td>UPSSSC Lekhpal Paper (2008 Shift 2)</td>
-                                    <td><a href="/previous-papers/exampapers/lekhpal/UP-Lekhpal-Mains-Exam-Official-Paper-Held-On-31st-July-2022-English.pdf" target="_blank">Download PDF</a></td>
+                                    <td>--</td>
                                     <td><a href="/previous-papers/exampapers/lekhpal/UP-Lekhpal-Mains-Exam-Official-Paper-Held-On-31st-July-2022-English.pdf" target="_blank">Download PDF</a></td>
                                 </tr>
                             </tbody>
